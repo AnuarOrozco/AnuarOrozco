@@ -28,5 +28,7 @@
 
 <b>My GitHub Stats</b>
 
+![Anuar's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuarorozco&show_icons=true&theme=transparent)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuarorozco&layout=compact)
 
