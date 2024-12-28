@@ -1,6 +1,7 @@
 # Welcome to my place! 😎
 
-![Anuar Orozco](https://github.com/user-attachments/assets/db195890-6d34-4169-a2bc-55ee6863e210)
+![Anuar Orozco](https://github.com/user-attachments/assets/d7914e5d-2bdd-4fee-996c-7794e61f4d63)
+
 
 #### Im Anuar, Java developer from 🇲🇽Colima, Mexico.📍
 
