@@ -1,5 +1,3 @@
-# Hi, I'm Anuar Orozco 👨‍💻
-
 ![Anuar Orozco2](https://github.com/user-attachments/assets/d41d52ec-efc9-4c00-9e97-23bcd8417565)
 
 
