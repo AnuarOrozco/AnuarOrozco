@@ -1,6 +1,7 @@
 # Hi, I'm Anuar Orozco 👨‍💻
 
-![Anuar Orozco](https://github.com/user-attachments/assets/d7914e5d-2bdd-4fee-996c-7794e61f4d63)
+![Anuar Orozco2](https://github.com/user-attachments/assets/d41d52ec-efc9-4c00-9e97-23bcd8417565)
+
 
 ### Backend Developer | Java Specialist | Cloud & DevOps Enthusiast  
 📍 Based in Colima, Mexico
