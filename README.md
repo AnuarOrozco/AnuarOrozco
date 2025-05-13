@@ -55,7 +55,7 @@ My main stack revolves around **Java**, **Spring**, **SQL/NoSQL databases**, and
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuar-orozco-214469255)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/anuar-orozco-214469255](https://www.linkedin.com/in/anuar-orozco/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/AnuarOrozco)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/im_aozzo)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white)](https://discord.com/users/thenewgash)
