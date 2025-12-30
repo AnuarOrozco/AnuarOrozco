@@ -2,7 +2,7 @@
 
 
 ### Backend Developer | Java Specialist | Cloud & DevOps Enthusiast  
-📍 Based in Colima, Mexico
+📍 Based in Guadalajara, Mexico
 
 I'm a passionate backend developer focused on building scalable microservices, integrating cloud-based solutions using AWS, and applying DevOps best practices to streamline deployment pipelines.  
 My main stack revolves around **Java**, **Spring**, **SQL/NoSQL databases**, and containerized environments with **Docker** and **Kubernetes**. I'm also experienced with RESTful APIs, asynchronous messaging, CI/CD workflows, and monitoring.
